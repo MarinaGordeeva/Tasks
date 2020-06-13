@@ -1,3 +1,5 @@
+//1.1. Вывести таблицу умножения в консоль
+
 public class TaskTable {
 
     public static void main(String[] args) {

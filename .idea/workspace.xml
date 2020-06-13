@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ec2047c-315b-482e-a568-15f66927dcfd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Task2Factarial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Task2_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Task2_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Task3Split.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/TaskTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2Factarial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TaskTable.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cxfL34WrO0iGlCjMoKpBUUeibr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HomeWork2" />
+  </component>
+  <component name="RunManager" selected="Application.links">
+    <configuration name="Task2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2_1" />
+      <module name="HomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2_2" />
+      <module name="HomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3Split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3Split" />
+      <module name="HomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="classWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classWork" />
+      <module name="HomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="links" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="links" />
+      <module name="HomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.links" />
+        <item itemvalue="Application.classWork" />
+        <item itemvalue="Application.Task2_2" />
+        <item itemvalue="Application.Task3Split" />
+        <item itemvalue="Application.Task2_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ec2047c-315b-482e-a568-15f66927dcfd" name="Default Changelist" comment="" />
+      <created>1591475105124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591475105124</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="275" key="FileChooserDialogImpl" timestamp="1592053753661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="393" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592053753661" />
+    <state width="1167" height="275" key="GridCell.Tab.0.bottom" timestamp="1591725079034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591725079034" />
+    <state width="1167" height="275" key="GridCell.Tab.0.center" timestamp="1591725079034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591725079034" />
+    <state width="1167" height="275" key="GridCell.Tab.0.left" timestamp="1591725079034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591725079034" />
+    <state width="1167" height="275" key="GridCell.Tab.0.right" timestamp="1591725079034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1167" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591725079034" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://C:/java/OpenJDK11U-jdk_x64_windows_hotspot_11.0.7_10/jdk-11.0.7+10/lib/src.zip!/java.base/java/util/Random.java</url>
+          <line>421</line>
+          <properties class="java.util.Random" method="nextLong">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
