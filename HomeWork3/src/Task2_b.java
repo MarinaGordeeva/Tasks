@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Task2_b {
 
     public static void main(String[] args) {
-        int[] mas = {11,44,555,22,2,8,16};
+        int[] mas = {11,44,555,22,2,8,16,9};
         int left = 1; // левая граница
         int right = mas.length - 1; // правая граница
 

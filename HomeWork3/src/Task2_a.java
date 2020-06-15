@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Task2_a {
 
         public static void main(String[] args) {
-            int[] a = {11, 44, 555, 22, 2, 8};
+            int[] a = {11, 44, 555, 22, 2, 8,9};
 
             boolean isSorted = false;
             int b;
