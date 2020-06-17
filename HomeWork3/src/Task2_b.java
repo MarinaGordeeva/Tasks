@@ -1,3 +1,5 @@
+//Шейкерная сортировка
+
 import java.util.Arrays;
 
 public class Task2_b {

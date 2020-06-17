@@ -3,7 +3,7 @@
 import java.util.Arrays;
 
 public class Task2_a {
-
+        //создали массив чисел;
         public static void main(String[] args) {
             int[] a = {11, 44, 555, 22, 2, 8,9};
 
