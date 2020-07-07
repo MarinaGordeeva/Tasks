@@ -19,23 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ec2047c-315b-482e-a568-15f66927dcfd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Task2Factarial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Task2_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Task2_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Task3Split.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/TaskTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task1_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2Factarial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTable.java" beforeDir="false" />
+    <list default="true" id="3c2d3044-7400-4387-98aa-65cf7bc90e66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWork4/src/hanoi_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/src/CalculatorWithMathCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/src/CalculatorWithMathExtends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/src/CalculatorWithOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/src/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/src/MainColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/src/ObjectMain5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork2/out/production/HomeWork/qkwmdkqlwmd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork3/HomeWork3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork3/HomeWork3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork3/out/production/HomeWork3/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork3/out/production/HomeWork3/Task2_a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork3/out/production/HomeWork3/Task2_b.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,59 +49,65 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1cxfL34WrO0iGlCjMoKpBUUeibr" />
+  <component name="ProjectId" id="1dbD8VTlY2Nggnnu9uJczcVAqMC" />
   <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HomeWork2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.links">
-    <configuration name="Task2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2_1" />
-      <module name="HomeWork" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ITACADAMY\Tasks\HomeWork4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainColor">
+    <configuration name="MainColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainColor" />
+      <module name="Tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2_2" />
-      <module name="HomeWork" />
+    <configuration name="hanoi_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hanoi_2" />
+      <module name="Tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3Split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task3Split" />
-      <module name="HomeWork" />
+    <configuration name="hanoi_tower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hanoi_tower" />
+      <module name="Tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classWork" />
-      <module name="HomeWork" />
+    <configuration name="hanoi_tower_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hanoi_tower_1" />
+      <module name="Tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="links" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="links" />
-      <module name="HomeWork" />
+    <configuration name="my_version" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_version" />
+      <module name="Tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.links" />
-        <item itemvalue="Application.classWork" />
-        <item itemvalue="Application.Task2_2" />
-        <item itemvalue="Application.Task3Split" />
-        <item itemvalue="Application.Task2_1" />
+        <item itemvalue="Application.MainColor" />
+        <item itemvalue="Application.hanoi_2" />
+        <item itemvalue="Application.hanoi_tower_1" />
+        <item itemvalue="Application.hanoi_tower" />
+        <item itemvalue="Application.my_version" />
       </list>
     </recent_temporary>
   </component>
@@ -113,11 +116,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1ec2047c-315b-482e-a568-15f66927dcfd" name="Default Changelist" comment="" />
-      <created>1591475105124</created>
+      <changelist id="3c2d3044-7400-4387-98aa-65cf7bc90e66" name="Default Changelist" comment="" />
+      <created>1592684739728</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591475105124</updated>
+      <updated>1592684739728</updated>
     </task>
     <servers />
   </component>
@@ -134,39 +137,57 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="275" key="FileChooserDialogImpl" timestamp="1592053753661">
+    <state x="629" y="258" width="816" height="734" key="#Intentions" timestamp="1592735688187">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="393" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592053753661" />
-    <state width="1167" height="275" key="GridCell.Tab.0.bottom" timestamp="1591725079034">
+    <state x="629" y="258" width="816" height="734" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1592735688187" />
+    <state x="683" y="298" key="FileChooserDialogImpl" timestamp="1594125294467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1167" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591725079034" />
-    <state width="1167" height="275" key="GridCell.Tab.0.center" timestamp="1591725079034">
+    <state x="683" y="298" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594125294467" />
+    <state width="1600" height="242" key="GridCell.Tab.0.bottom" timestamp="1594125844596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1167" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591725079034" />
-    <state width="1167" height="275" key="GridCell.Tab.0.left" timestamp="1591725079034">
+    <state width="1600" height="242" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594125844596" />
+    <state width="1600" height="242" key="GridCell.Tab.0.center" timestamp="1594125844596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1167" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591725079034" />
-    <state width="1167" height="275" key="GridCell.Tab.0.right" timestamp="1591725079034">
+    <state width="1600" height="242" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594125844596" />
+    <state width="1600" height="242" key="GridCell.Tab.0.left" timestamp="1594125844596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1167" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591725079034" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>jar://C:/java/OpenJDK11U-jdk_x64_windows_hotspot_11.0.7_10/jdk-11.0.7+10/lib/src.zip!/java.base/java/util/Random.java</url>
-          <line>421</line>
-          <properties class="java.util.Random" method="nextLong">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1600" height="242" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594125844596" />
+    <state width="1600" height="242" key="GridCell.Tab.0.right" timestamp="1594125844596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1600" height="242" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594125844596" />
+    <state width="1600" height="335" key="GridCell.Tab.1.bottom" timestamp="1593115218290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1600" height="335" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593115218290" />
+    <state width="1600" height="335" key="GridCell.Tab.1.center" timestamp="1593115218290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1600" height="335" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593115218290" />
+    <state width="1600" height="335" key="GridCell.Tab.1.left" timestamp="1593115218290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1600" height="335" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593115218290" />
+    <state width="1600" height="335" key="GridCell.Tab.1.right" timestamp="1593115218290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1600" height="335" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593115218290" />
+    <state x="285" y="163" key="new project wizard" timestamp="1593345830436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="285" y="163" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593345830436" />
+    <state x="1148" y="312" key="refactoring.ChangeSignatureDialog" timestamp="1592734865888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1148" y="312" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592734865888" />
+    <state x="1105" y="275" width="672" height="678" key="search.everywhere.popup" timestamp="1592819200726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1105" y="275" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592819200726" />
   </component>
 </project>
